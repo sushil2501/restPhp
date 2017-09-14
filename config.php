@@ -1,0 +1,9 @@
+<?php $config = array(
+    "database_type"=>"mysql",
+    "database_name"=>"aszet",
+    "server"=>"localhost",
+    "username"=>"root",
+    "password"=>"",
+    "charset"=>"utf8",
+    "port"=>3306,
+    "encryption_key"=>"bdedf67dccd4ff8cc7a932d78a199c2bb0f0d734270a90de89e3b3c59477fcb4" ); ?>
