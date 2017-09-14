@@ -1,5 +1,5 @@
 <?php
-namespace app\restApi;
+namespace app\restApiasfsdgdgdgtfrh;
 
 use app\restApi\RestUrl;
 use yii\web\Response;
